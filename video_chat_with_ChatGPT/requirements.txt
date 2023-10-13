@@ -25,4 +25,3 @@ timm==0.4.12
 transformers
 fairscale==0.4.4
 pycocoevalcap
-setuptools==59.5.0
