@@ -1,14 +1,13 @@
+simplet5
 openai
 einops
 gradio
 imageio
 decord
-simplet5
 imageio-ffmpeg
 openmim
 mmcv
 spacy
-simplet5
 decord
 omegaconf
 lvis
@@ -25,3 +24,4 @@ timm==0.4.12
 transformers
 fairscale==0.4.4
 pycocoevalcap
+setuptools 
